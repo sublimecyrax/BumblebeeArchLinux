@@ -1,4 +1,4 @@
-# This brief tutorial in the form of a code
+# This brief tutorial in the form of a console code
 # For more FAQ visit to Wiki-Page
 
 `sudo pacman -S nvidia nvidia-utils bbswitch primus mesa-demos mesa-libgl`
